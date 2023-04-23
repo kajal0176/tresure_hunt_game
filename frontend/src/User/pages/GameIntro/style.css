@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&family=Yanone+Kaffeesatz:wght@1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&family=Rubik+Wet+Paint&family=Yanone+Kaffeesatz:wght@700&display=swap');
+
+/* .gameintro{
+    width: 100vw;
+   
+    background-color: #f0f2f5;
+   
+    
+}
+.gamewrapper{
+     width: 50%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.title{
+    background-color: coral;
+  box-shadow: 10px 10px 5px lightblue;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+}
+.gameobjective{
+    background-color: aqua;
+    box-shadow: 10px 10px 5px lightblue;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+}
+.play{
+  align-items: center;
+}
+.btn1{
+    width: 70px;
+    background-color: bisque;
+    font-weight: bold;
+    border-radius: 5px;
+    border-style: none;
+   height: 40px;
+   font-size: medium;
+} */
+
+.__image{
+  background-image: url("key.jpg");
+  position: relative;
+  height: 300px;
+  color: aliceblue;
+}
+.__welcomeText{
+  font-size: 50px;
+  font-family: 'Rubik Wet Paint', cursive;
+}
+.__font{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  word-spacing: 3px;
+  font-size: 18px;
+}

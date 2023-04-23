@@ -1,0 +1,7 @@
+.__imgA{
+    position: absolute;
+    background-image: url('img.gif');
+    height: 92%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

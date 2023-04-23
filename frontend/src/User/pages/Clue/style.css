@@ -1,0 +1,49 @@
+
+.__img{
+    background-image: url("img1.jpg");
+    position: absolute;
+    height: 40%;
+    width: 100%;
+    color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+
+  .__imgDark{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.416);
+    height: 100%;
+    color: aliceblue;
+}
+.__index{
+    position: absolute;
+    
+    height: 100%;
+
+}
+.__fontSize{
+    font-size: 50px;
+}
+.__top{
+    top: 200px;
+}
+.__input{
+    width: 500px !important;
+}
+.__box{
+    background-color: rgba(200, 220, 241, 0.477) !important;
+    color: rgb(240, 244, 248) !important;
+    height: 50px;
+   
+}
+.p-steps .p-steps-item .p-menuitem-link{
+    background: none !important;
+    color: aliceblue !important;
+}
+.p-steps .p-steps-item.p-highlight .p-steps-title{
+    color: aliceblue !important;
+}
+.p-steps .p-steps-item .p-menuitem-link .p-steps-title{
+    color: aliceblue !important;
+}

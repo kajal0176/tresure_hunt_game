@@ -1,0 +1,9 @@
+.__header{
+    display: flex;
+    background-color: rgb(35, 34, 47);
+    color: aliceblue;
+    align-items: center;
+    height: 60px;
+    justify-content: space-between;
+    padding: 0px 60px;
+}
